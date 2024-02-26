@@ -1,4 +1,4 @@
-# SIMSAN 8-)
+# SIMSAN
 
 + Engineering works
 + Procurement
